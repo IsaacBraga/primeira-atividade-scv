@@ -13,4 +13,8 @@
 	<td>118.405.484-36</td>
 	<td>Vinicius S. Almeida</td>
   </tr>
+  <tr>
+	<td>709.906.224.79</td>
+	<td>Isaac Pereira Braga</td>
+  </tr>
 </table>
